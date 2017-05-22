@@ -30,6 +30,6 @@ Build:
 ```sh
 > At the command prompt execute the following instruction:
     git clone https://github.com/marcosouza93/hell-triangle-challenge.git
-> Open the source code on eclipse, inteligei or your favorite IDE and execute the test class (TriangleTest) using JUnit framework  
+> Open the source code on eclipse, IntelliJ or your favorite IDE and execute the test class (TriangleTest) using JUnit framework  
 
 ```
