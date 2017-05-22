@@ -17,13 +17,11 @@ Example:
 
 An element can only be summed with one of the two nearest elements in the next row.
 So the element 3 in row 2 can be summed with 9 and 7, but not with 1.
-_______
 
 Requirements:
 ---------------
 - Java 1.7+
 - Maven 3.3.9 or later
-_______
 
 Build:
 ---------------
